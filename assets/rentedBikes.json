@@ -1,0 +1,86 @@
+[  
+  {
+    "id": "851984d4-db92-4873-bb9d-87b2c7874541",
+    "bike": 
+    {
+      "id": "851984d4-db92-4873-bb9d-87b2c7874540",
+      "type": "Mountain",
+      "size": "Medium",
+      "price": 120,
+      "isAvailable": false
+    },
+    "user":
+    {
+      "name": "Mel Tyan Ko",
+      "email": "mtko@email.com",
+      "phone": "1231231234",
+      "card": "1234123412341234",
+      "borrowDate": "2024-05-02",
+      "returnDate": "2024-05-02",
+      "total": 120
+    }
+  },
+  {
+    "id": "0e074ef0-ea5d-400d-ad45-118ab431e965",
+    "bike": 
+    {
+      "id": "0e074ef0-ea5d-400d-ad45-118ab431e964",
+      "type": "Road",
+      "size": "X-Large",
+      "price": 120,
+      "isAvailable": false
+    },
+    "user":
+    {
+      "name": "Alden Recharge",
+      "email": "arecharge@email.com",
+      "phone": "0001112222",
+      "card": "0000111122223333",
+      "borrowDate": "2024-05-05",
+      "returnDate": "2024-05-06",
+      "total": 240
+    }
+  },
+  {
+    "id": "6c5eed1e-8825-4c2d-935a-2b842b21def7",
+    "bike": 
+    {
+      "id": "6c5eed1e-8825-4c2d-935a-2b842b21def7",
+      "type": "BMX",
+      "size": "XX-Large",
+      "price": 90,
+      "isAvailable": false
+    },
+    "user":
+    {
+      "name": "Rice Ganda",
+      "email": "bbgirl@email.com",
+      "phone": "0102023003",
+      "card": "0101202030034004",
+      "borrowDate": "2024-05-02",
+      "returnDate": "2024-05-03",
+      "total": 180
+    }
+  },
+  {
+    "id": "118eef68-c671-4fc0-8512-2b26b613bb9d",
+    "bike": 
+    {
+      "id": "118eef68-c671-4fc0-8512-2b26b613bb9e",
+      "type": "Electric",
+      "size": "X-Large",
+      "price": 350,
+      "isAvailable": false
+    },
+    "user":
+    {
+      "name": "Maja Blanca Salvador",
+      "email": "keratin@email.com",
+      "phone": "9992058001",
+      "card": "8008255237371221",
+      "borrowDate": "2024-05-10",
+      "returnDate": "2024-05-12",
+      "total": 1050
+    }
+  }
+]

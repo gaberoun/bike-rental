@@ -1,0 +1,142 @@
+[  
+  {
+    "id": "82bfbb5c-f7c4-4fac-88df-29aa23669577",
+    "type": "Mountain",
+    "size": "Small",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "851984d4-db92-4873-bb9d-87b2c7874540",
+    "type": "Mountain",
+    "size": "Medium",
+    "price": 120,
+    "isAvailable": false
+  },
+  {
+    "id": "b587bb69-67a3-45c7-930d-2d64cd817a38",
+    "type": "Foldable",
+    "size": "XX-Large",
+    "price": 105,
+    "isAvailable": true
+  },
+  {
+    "id": "0ccbc8f8-d769-47c9-93a5-a083161c4cd8",
+    "type": "Foldable",
+    "size": "Medium",
+    "price": 105,
+    "isAvailable": true
+  },
+  {
+    "id": "e0114740-9f57-4fd0-9ae4-392c17d37e7d",
+    "type": "Road",
+    "size": "XX-Large",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "0e074ef0-ea5d-400d-ad45-118ab431e964",
+    "type": "Road",
+    "size": "X-Large",
+    "price": 120,
+    "isAvailable": false
+  },
+  {
+    "id": "70386111-5f9b-4d09-ae28-7579233dc865",
+    "type": "Mountain",
+    "size": "X-Small",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "944aef57-40dd-4310-b5f0-8414478b6c5d",
+    "type": "Road",
+    "size": "X-Small",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "6c5eed1e-8825-4c2d-935a-2b842b21def7",
+    "type": "BMX",
+    "size": "XX-Large",
+    "price": 90,
+    "isAvailable": false
+  },
+  {
+    "id": "118eef68-c671-4fc0-8512-2b26b613bb9e",
+    "type": "Electric",
+    "size": "X-Large",
+    "price": 350,
+    "isAvailable": false
+  },
+  {
+    "id": "6a3fd7d0-db7d-427c-bff3-a6cd291432cb",
+    "type": "BMX",
+    "size": "Small",
+    "price": 90,
+    "isAvailable": true
+  },
+  {
+    "id": "175cdfb7-dcdb-4afa-9d34-a81be7e16b29",
+    "type": "Road",
+    "size": "XX-Large",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "73a02caf-eb08-42bb-a1fa-ec0866c4efd2",
+    "type": "Mountain",
+    "size": "X-Small",
+    "price": 120,
+    "isAvailable": true
+  },
+  {
+    "id": "5f677d72-3d8c-4d6a-9f09-6ab7437e1e8c",
+    "type": "Electric",
+    "size": "Small",
+    "price": 350,
+    "isAvailable": true
+  },
+  {
+    "id": "d691eda4-ff1c-42b2-88ff-cc70ad35a8d4",
+    "type": "Electric",
+    "size": "X-Large",
+    "price": 350,
+    "isAvailable": true
+  },
+  {
+    "id": "587f93af-fc49-46f1-9eeb-9430ae367d14",
+    "type": "Foldable",
+    "size": "Medium",
+    "price": 105,
+    "isAvailable": true
+  },
+  {
+    "id": "175db449-ccb9-468b-95fa-74d36fedd2a5",
+    "type": "BMX",
+    "size": "Medium",
+    "price": 90,
+    "isAvailable": true
+  },
+  {
+    "id": "76178fc2-061c-4871-81f7-4a1df0b20869",
+    "type": "Classic",
+    "size": "X-Small",
+    "price": 100,
+    "isAvailable": true
+  },
+  {
+    "id": "84507953-5b3b-4467-90ce-33be3b89fbd6",
+    "type": "Classic",
+    "size": "Small",
+    "price": 100,
+    "isAvailable": true
+  },
+  {
+    "id": "c7307224-452e-4f3d-8343-bcac73207670",
+    "type": "Foldable",
+    "size": "Medium",
+    "price": 105,
+    "isAvailable": true
+  }
+]
