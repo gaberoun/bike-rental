@@ -1,7 +1,7 @@
 import { useState, useReducer } from 'react';
 import { Routes, Route } from 'react-router-dom';
-import bikes from './../assets/bikes.json';
-import rentedBikesDb from './../assets/rentedBikes.json';
+import bikes from './assets/bikes.json';
+import rentedBikesDb from './assets/rentedBikes.json';
 
 // COMPONENTS
 import Layout from './components/Layout';
